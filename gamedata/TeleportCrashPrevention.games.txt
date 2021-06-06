@@ -1,0 +1,18 @@
+"Games"
+{
+	"csgo"
+	{
+		"Offsets"
+		{
+			"CBaseEntity::GetRefEHandle"
+			{
+				"linux"		"3"
+			}
+
+			"CTriggerTeleport::m_pentTarget"
+			{
+				"linux"		"1244"
+			}
+		}
+	}
+}
